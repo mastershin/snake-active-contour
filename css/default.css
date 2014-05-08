@@ -1,0 +1,60 @@
+﻿
+body{
+    margin:1px;
+    font:100% sans-serif;
+    color:#999;
+    background:#eee;
+    position:relative;
+}
+#canvasFrame{
+    width: 300px;
+    height: 300px;
+    position:relative;
+    margin:5px 30px 0 0;
+    padding:0px;
+    background:#fff;
+    /*
+    -webkit-box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:2px 2px 8px rgba(0, 0, 0, 0.5);
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    */
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+}
+h1{
+    text-shadow:1px 1px 1px #000;
+}
+a:link,a:visited,a:active{
+    text-decoration:none;
+    color:#aa3;
+}
+a:hover{
+    text-decoration:none;
+    color:#000;
+}
+input.text{
+    width:36px;
+    margin:0 5px 0 0;
+    text-align:center;
+    background:#fff;
+    border:1px solid #ccc;
+}
+.button{
+    margin:0 0 0 5px;
+}
+    .auto-style1 {
+        width: 100%;
+    }
+
+
+
+#heatmapArea {
+			position:relative;
+			float:left;
+			width:300px;
+			height:300px;
+				
+			border:1px dashed black;
+		}
