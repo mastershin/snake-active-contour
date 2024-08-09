@@ -1,4 +1,4 @@
-#Snake Active Contour Javascript Implementation v1.0
+# Snake Active Contour Javascript Implementation v1.1
 
 ## Author ##
 Jae Y Shin
@@ -12,15 +12,12 @@ This was my final class project for
    CSE 591 Intro to Image Processing, Fall 2013 @ Arizona State University, Tempe, Arizona.
 
 ## Technology ##
-
 Uses 100% Javascript, KineticJS & NumericJS library.
 
 ## Note ##
-Deployed to [http://snake-active-contour.appspot.com](http://snake-active-contour.appspot.com)
+Deployed to [https://mastershin.github.io/snake-active-contour/](https://mastershin.github.io/snake-active-contour/)
 
 ## Reference ##
 Kass, M., Witkin, A. &Aacute; Terzopoulos, D. (1988). Snakes: <a href="http://www.cs.ucla.edu/~dt/papers/ijcv88/ijcv88.pdf">Active Contour Models</a>.
 <i>International Journal of Computer Vision</i>, 321-331. Boston, MA.
 
-### 1.0 ###
-* Initial public release (5/8/2014)
